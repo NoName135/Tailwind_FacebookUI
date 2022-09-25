@@ -1,2 +1,2 @@
-Light Mode Not finished  
+Light mode is not finished  
 https://NoName135/Tailwind_FacebookUI
